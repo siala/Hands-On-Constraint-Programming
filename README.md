@@ -21,3 +21,7 @@ $pip install docplex ipykernel
 
 ## Personal Installation
 If you want to install the solver in your personal machine, you have to do it __before__ the first session. You'll need to install it with an academic license. To do so, create an account using your institution's email at IBM Academic Initiative (https://www.ibm.com/academic/.). Then, download the solver starting from the aforementioned link. 
+
+
+# Evaluation: 
+You need to submit only Lab 2 in Moodle __before january 28__. 
